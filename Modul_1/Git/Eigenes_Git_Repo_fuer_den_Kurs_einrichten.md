@@ -98,3 +98,9 @@ Wer dazu nicht die Möglchkeit hat, kann mich (Konrad)
 kontaktieren. Wir können das Repositorium unter meinen Account laufen
 lassen (man kann [Repositoriuen
 transferieren](https://help.github.com/en/github/administering-a-repository/transferring-a-repository)).
+
+
+## Schritt 4 - Fügt Eure Dateien hinzu
+
+Fügt Eure Dateien (Jupyter Notebook, Skripte) zu dem Repositorium
+lokal hinzu und pusht die Änderungen zu GitHub.
