@@ -67,7 +67,7 @@ Repositorium und gebe dort die Befehle ein, die Dir GitHub unter
 empfielt. Z.b. (Achtung - Nutzernamen anpassen!)
 
 ```
-git remote add origin git@github.com:konrad/Zertifikatskurs_Data_Librarian_2019_Konrad.git
+git remote add origin https://github.com:konrad/Zertifikatskurs_Data_Librarian_2019_Konrad.git
 ```
 und
 
