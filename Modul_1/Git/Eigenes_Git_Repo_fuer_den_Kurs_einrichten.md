@@ -2,7 +2,7 @@
 
 # Schritt 1 - Ordner und Dateien erstellen
 
-Öffne die Git Bash und gehe in eine Ordner Deiner Wahl. Erstelle dort
+Öffne die Git Bash und gehe in einen Ordner Deiner Wahl. Erstelle dort
 einen neuen Ordner (ersetze "Konrad" mit Deinem Namen).
 
 ```
